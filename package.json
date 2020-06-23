@@ -1,0 +1,42 @@
+{
+  "name": "com.reactjs.cordova",
+  "displayName": "Özgür1",
+  "version": "1.0.0",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Apache Cordova Team",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cordova-android": "^8.0.0",
+    "cordova-plugin-webpack": "^0.4.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-fieldset": "^3.1.6",
+    "react-number-format": "^4.4.1",
+    "reactstrap": "^8.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "cordova-plugin-whitelist": "^1.3.4",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-webpack": {}
+    },
+    "platforms": [
+      "android"
+    ]
+  }
+}
