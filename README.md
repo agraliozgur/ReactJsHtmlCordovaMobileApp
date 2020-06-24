@@ -11,14 +11,35 @@ You can just HTML/CSS/JS website html put in the "www" folder for run. And For R
 Note: You have to neccesary download android application platforms and the other npm libraries from down links:
 
 https://www.npmjs.com/
+
+
 https://cordova.apache.org/
+
+
 https://gradle.org/releases/
+
+
 https://developer.android.com/studio
+
+
 https://cordova.apache.org/docs/en/9.x/guide/cli/index.html
+
+
 https://www.genymotion.com/
+
+
 https://code.visualstudio.com/
+
+
 https://www.virtualbox.org/wiki/Downloads
+
+
 https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+
+
+
+
+
 
 If you get a error like these: you have to make some changes.
 
