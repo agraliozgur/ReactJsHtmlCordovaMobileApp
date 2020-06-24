@@ -51,3 +51,8 @@ you have to change:
 classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
 
 Note: CSS files should be in the "www" folder. If you analyze these folder types you can understand and you can do it. If you can't you can contact me!
+
+
+You can download under link my test template of Andorid apk for use it.
+
+https://app.bitrise.io/artifact/42098699/p/f1b3846923e2a0b236af3c1dd807668f
